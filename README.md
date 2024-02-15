@@ -1,4 +1,4 @@
-# Simple Machine Learning models that can be used to perform a comparitive study. \n
+# Simple Machine Learning models that can be used to perform a comparitive study.
 Models used:
 1) Linear Regression
 2) Logistic Regression
